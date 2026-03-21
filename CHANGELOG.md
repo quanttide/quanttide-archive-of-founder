@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.0] - 2026-03-23
+
+### Added
+
+- **journal/write/history/**: Journal history archive
+- **report/**: Report archives (default, code, write)
+
+### Changed
+
+- Expanded archive structure with multiple categories
+
 ## [0.1.0] - 2026-03-17
 
 ### Added
