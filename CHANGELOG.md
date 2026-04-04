@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.1] - 2026-04-05
+
+### Changed
+
+- 接收 product/ 目录下的产品日志（从 journal 子模块归档）
+- 将 legal/ 文件重组到 roadmap/ 目录下
+
 ## [0.2.0] - 2026-03-23
 
 ### Added
