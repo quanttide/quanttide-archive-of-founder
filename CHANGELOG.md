@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.0] - 2026-05-05
+
+### Added
+
+- report/default/diary/: 接收来自 docs/memory 的日报归档
+  - 2026-04-21.md, 2026-04-23.md, 2026-04-25.md, 2026-05-03.md
+- report/write/diary/: 接收写作日志归档
+  - 2026-05-03.md
+
 ## [0.2.1] - 2026-04-05
 
 ### Changed
