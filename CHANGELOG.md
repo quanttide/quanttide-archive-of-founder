@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.1] - 2026-05-06
+
+### Added
+
+- journal/default/: 接收来自 docs/memory 的日报备份 2026-04-18 ~ 2026-05-05
+- journal/product/: 接收产品日志备份 2026-05-02
+- journal/game/: 接收游戏日志备份 2026-05-02
+- journal/qtcloud/: 接收云平台日志备份 2026-05-02 ~ 2026-05-03
+
 ## [0.3.0] - 2026-05-05
 
 ### Added
