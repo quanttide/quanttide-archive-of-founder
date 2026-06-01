@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.0] - 2026-06-01
+
+### Added
+
+- journal/default/: 接收来自 docs/memory 的日报备份 2026-05-06 ~ 2026-05-27
+- journal/agent/: 接收 agent 日志备份 2026-05-26
+- journal/health/: 接收 health 日志备份 2026-05-25
+- report/write/: 接收报告归档 2026-05-30
+- journal/: 接收来自 docs/memory 的 journal 归档
+- report/: 接收来自 docs/memory 的 report 归档
+- brochure/: 接收 brochure 归档
+- context/: 接收 context 归档
+- vision/: 接收 vision 归档
+- profile/: 接收 profile 归档
+- essay/: 接收 essay 归档
+- laboratory/: 接收 laboratory 归档
+
 ## [0.3.1] - 2026-05-06
 
 ### Added
