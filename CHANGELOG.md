@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0] - 2026-08-10
+
+首个正式发布（1.0.0）：归档结构与目录规范已稳定，后续版本遵循语义化版本规范，破坏性变更将单独声明。
+
+### Added
+
+- journal/default/: 接收来自 docs/memory 的日报备份 2026-06-28 ~ 2026-07-28
+
 ## [0.4.0] - 2026-06-01
 
 ### Added
