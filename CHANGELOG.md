@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### 变更
+
+- `journal/default/`：183 篇日志（2026-03-11 ~ 2026-09-19）整体迁出至 `quanttide-journal-of-founder` 的 `default/<YYYY-MM>/`；本仓库 `journal/default/` 清空（AGENTS.md 同步）
+
 ## [1.1.1] - 2026-09-27
 
 `journal/write/` 等 write 域资源分批迁出本仓库，移交叙事工程归档（quanttide-archive-of-narrative-engineering）；其中 fiction 主题日志随即回迁本仓库 `fiction/journal/`。内容逐字节不变。
