@@ -7,7 +7,7 @@ QuantTide Archive of Founder - 创始人工作归档
 ## 模块结构
 
 - `journal/` - 工作日志（按职能分类；原 `write/` 存量写作日志已迁 quanttide-write 归档；`default/` 存量日志已迁 `quanttide-journal-of-founder`）
-- `fiction/` - 写作主线：作品归档与 fiction 记忆集日志归档位（`journal/`，按需创建）
+- `fiction/` - 写作主线：作品归档（原 `journal/` 日志已迁 `quanttide-journal-of-founder`）
 - `game/` - 游戏主线：项目文档与 game 记忆集日志归档（`journal/`）
 - `handbook/` - 手册
 - `platform/` - 平台代码
