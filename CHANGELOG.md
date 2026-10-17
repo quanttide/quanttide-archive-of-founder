@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.1] - 2026-10-17
+
+### 新增
+
+- `platform/qtfounder/studio/`：从 `apps/qtfounder/src/studio/` 归档 Studio 业务代码、示例与测试；应用侧仅保留入口与骨架
+- `toolkit/`：从 `packages/quanttide-founder-toolkit/packages/` 归档 Dart / Rust 两包的业务代码、示例、测试与包内文档；包内仅保留入口与骨架
+
+### 变更
+
+- `vision/` 改名为 `intention/`，内容逐字节不变
+
 ## [1.2.0] - 2026-10-13
 
 ### 变更
